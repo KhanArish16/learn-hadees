@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "title": "Mountain Retreat",
+    "description": "Escape to the serene mountains and enjoy breathtaking views.",
+    "imageUrl": "https://www.atlasandboots.com/wp-content/uploads/2019/05/ama-dablam2-most-beautiful-mountains-in-the-world.jpg",
+    "altText": "Mountain Landscape"
+  },
+  {
+    "id": 2,
+    "title": "City Lights",
+    "description": "Experience the vibrant energy of the city at night.",
+    "imageUrl": "https://www.viewbug.com/media/mediafiles/2014/01/25/8915181_large1300.jpg",
+    "altText": "City Nightscape"
+  },
+  {
+    "id": 3,
+    "title": "Ocean Breeze",
+    "description": "Relax by the ocean and feel the refreshing sea breeze.",
+    "imageUrl": "https://source.unsplash.com/random/800x600/?ocean",
+    "altText": "Ocean View"
+  },
+  {
+    "id": 4,
+    "title": "Forest Trail",
+    "description": "Discover the tranquility of a peaceful forest walk.",
+    "imageUrl": "https://source.unsplash.com/random/800x600/?forest",
+    "altText": "Forest Path"
+  },
+  {
+    "id": 5,
+    "title": "Desert Sunset",
+    "description": "Witness the stunning colors of a desert sunset.",
+    "imageUrl": "https://source.unsplash.com/random/800x600/?desert,sunset",
+    "altText": "Desert Sunset"
+  },
+  {
+    "id": 6,
+    "title": "Mountain Retreat",
+    "description": "Escape to the serene mountains and enjoy breathtaking views.",
+    "imageUrl": "https://source.unsplash.com/random/800x600/?mountain",
+    "altText": "Mountain Landscape"
+  },
+  {
+    "id": 7,
+    "title": "City Lights",
+    "description": "Experience the vibrant energy of the city at night.",
+    "imageUrl": "https://source.unsplash.com/random/800x600/?city,night",
+    "altText": "City Nightscape"
+  },
+  {
+    "id": 8,
+    "title": "Ocean Breeze",
+    "description": "Relax by the ocean and feel the refreshing sea breeze.",
+    "imageUrl": "https://source.unsplash.com/random/800x600/?ocean",
+    "altText": "Ocean View"
+  },
+  {
+    "id": 9,
+    "title": "Forest Trail",
+    "description": "Discover the tranquility of a peaceful forest walk.",
+    "imageUrl": "https://source.unsplash.com/random/800x600/?forest",
+    "altText": "Forest Path"
+  },
+  {
+    "id": 10,
+    "title": "Desert Sunset",
+    "description": "Witness the stunning colors of a desert sunset.",
+    "imageUrl": "https://source.unsplash.com/random/800x600/?desert,sunset",
+    "altText": "Desert Sunset"
+  }
+]
